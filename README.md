@@ -15,13 +15,15 @@ To analyze sales data and create an interactive dashboard for better business in
 https://github.com/sayali-data-science/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpg
 
 ## Insights
-- West region shows highest sales
-- Technology category performs best
-- Sales trend shows variation over time
-
+- West region generated the highest revenue among all regions  
+- Technology category contributed the maximum sales  
+- Sales trends show fluctuations over time indicating seasonal demand patterns  
 ## Tools Used
 - Power BI
 - Excel
 
 ## Dataset
 Sample Superstore dataset used for analysis
+
+## Conclusion
+This dashboard helps in understanding sales performance and supports data-driven decision-making.
