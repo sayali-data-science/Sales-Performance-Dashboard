@@ -1,8 +1,7 @@
 # Sales-Performance-Dashboard
 
 ## Overview
-This project is a Power BI dashboard created to analyze sales performance.
-
+Built as a beginner-friendly data analytics project to demonstrate dashboarding skills.
 ## Objective
 To analyze sales data and create an interactive dashboard for better business insights.
 
