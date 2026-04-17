@@ -12,7 +12,7 @@ To analyze sales data and create an interactive dashboard for better business in
 - Filters (Slicers) for dynamic analysis
 
 ## Dashboard Preview
-
+https://github.com/sayali-data-science/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpg
 
 ## Insights
 - West region shows highest sales
