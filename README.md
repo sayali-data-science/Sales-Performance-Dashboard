@@ -1,7 +1,8 @@
 # Sales-Performance-Dashboard
 
 ## Overview
-Built as a beginner-friendly data analytics project to demonstrate dashboarding skills.
+This project demonstrates data visualization and dashboarding skills using Power BI.
+
 ## Objective
 To analyze sales data and create an interactive dashboard for better business insights.
 
